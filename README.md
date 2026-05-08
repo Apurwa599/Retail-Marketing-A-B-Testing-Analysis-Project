@@ -41,16 +41,12 @@ The project was completed using the following analytical steps:
 These visualizations help identify trends, patterns, and relationships within the dataset.
 
 ### Hypothesis Testing
-
 Hypothesis testing was performed to determine whether there is a statistically significant difference between the Ad group and PSA group.
 
-Hypotheses
-Null Hypothesis (H0): There is no significant difference between the Ad and PSA groups.
-Alternative Hypothesis (H1): There is a significant difference between the Ad and PSA groups.
+- Null Hypothesis (H0): There is no significant difference between the Ad and PSA groups.
+- Alternative Hypothesis (H1): There is a significant difference between the Ad and PSA groups.
 
 The analysis showed that the p-value was less than 0.05, leading to the rejection of the null hypothesis.
-
-This indicates that advertisements significantly impact customer conversions.
 
 Machine Learning Model
 
