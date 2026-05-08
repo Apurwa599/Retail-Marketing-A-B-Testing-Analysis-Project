@@ -48,34 +48,30 @@ Hypothesis testing was performed to determine whether there is a statistically s
 
 The analysis showed that the p-value was less than 0.05, leading to the rejection of the null hypothesis.
 
-Machine Learning Model
-
+### Regression Analysis
 A Logistic Regression model was used because the target variable (converted) contains binary values (True/False).
-
 The model helps:
 
-Predict customer conversion behavior.
-Understand the relationship between ad exposure and conversions.
-Estimate conversion probability based on the number of ads viewed.
-Key Insights
+- Predict customer conversion behavior.
+- Understand the relationship between ad exposure and conversions.
+- Estimate conversion probability based on the number of ads viewed.
 
-Some important findings from the analysis are:
-
+### Key Insights
 The Ad group achieved higher conversion rates than the PSA group.
 Higher ad exposure increased the probability of customer conversion.
 Certain days and hours generated better conversion performance.
 Customer engagement changes depending on campaign timing.
 Statistical testing confirmed the effectiveness of advertisements.
-Future Work
 
+### Future Work
 This project can be improved further by:
-
 Using larger and more detailed datasets.
 Adding customer demographic information.
 Applying advanced machine learning models.
 Performing time-series forecasting.
 Building interactive dashboards using Power BI or Tableau.
 Optimizing marketing budget allocation strategies.
+
 Project Structure
 Retail-Marketing-AB-Testing/
 │
