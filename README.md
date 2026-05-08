@@ -11,7 +11,6 @@ The project uses data analysis, visualization, hypothesis testing, and machine l
 
 ### Problem Statement
 Retail businesses invest heavily in marketing campaigns, but it is important to know whether advertisements actually increase customer conversions.
-
 The main objective of this project is to:
 - Compare conversion performance between Ad and PSA groups.
   Analyze the impact of ad exposure on customer behavior.
@@ -21,48 +20,27 @@ The main objective of this project is to:
 - Dataset Information
 
 ### Dataset Features
-Column Name	Description
-user id	Unique ID of each customer
-test group	Group type (ad or psa)
-converted	Whether the user converted or not
-total ads	Total number of ads seen by the customer
-most ads day	Day with highest ad exposure
-most ads hour	Hour with highest ad exposure
-Analytical Approach
-
+- user id	Unique ID of each customer
+- test group	Group type (ad or psa)
+- converted	Whether the user converted or not
+- total ads	Total number of ads seen by the customer
+- most ads day	Day with highest ad exposure
+- most ads hour	Hour with highest ad exposure
+  
+### Analytical Approach
 The project was completed using the following analytical steps:
-
-Data Understanding and Exploration
-Data Cleaning and Preprocessing
-Campaign Performance Comparison
-Conversion Analysis by Day and Hour
-Ad Exposure vs Conversion Analysis
-Hypothesis Testing
-Logistic Regression Modeling
-Data Visualization and Insights
-Technologies and Tools Used
-Tool / Technology	Purpose
-Python	Data Analysis and Modeling
-Jupyter Notebook	Project Development
-Pandas	Data Manipulation
-NumPy	Numerical Operations
-Matplotlib	Data Visualization
-Seaborn	Statistical Visualization
-Scikit-learn	Machine Learning
-SciPy	Hypothesis Testing
-Data Visualization
-
-The project includes several visualizations to better understand customer behavior and campaign performance:
-
-Conversion Rate Comparison
-Conversions by Day
-Conversions by Hour
-Ad Exposure vs Conversion Boxplot
-Logistic Regression Visualization
+- Data Understanding and Exploration
+- Data Cleaning and Preprocessing
+- Campaign Performance Comparison
+- Conversion Analysis by Day and Hour
+- Ad Exposure vs Conversion Analysis
+- Hypothesis Testing
+- Logistic Regression Modeling
+- Data Visualization and Insights
 
 These visualizations help identify trends, patterns, and relationships within the dataset.
 
-Hypothesis Testing
+### Hypothesis Testing
 
 Hypothesis testing was performed to determine whether there is a statistically significant difference between the Ad group and PSA group.
 
