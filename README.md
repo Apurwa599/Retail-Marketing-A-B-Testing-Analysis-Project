@@ -57,56 +57,27 @@ The model helps:
 - Estimate conversion probability based on the number of ads viewed.
 
 ### Key Insights
-The Ad group achieved higher conversion rates than the PSA group.
-Higher ad exposure increased the probability of customer conversion.
-Certain days and hours generated better conversion performance.
-Customer engagement changes depending on campaign timing.
-Statistical testing confirmed the effectiveness of advertisements.
+- The Ad group achieved higher conversion rates than the PSA group.
+- Higher ad exposure increased the probability of customer conversion.
+- Certain days and hours generated better conversion performance.
+- Customer engagement changes depending on campaign timing.
+- Statistical testing confirmed the effectiveness of advertisements.
 
 ### Future Work
 This project can be improved further by:
-Using larger and more detailed datasets.
-Adding customer demographic information.
-Applying advanced machine learning models.
-Performing time-series forecasting.
-Building interactive dashboards using Power BI or Tableau.
-Optimizing marketing budget allocation strategies.
+- Using larger and more detailed datasets.
+- Adding customer demographic information.
+- Applying advanced machine learning models.
+- Performing time-series forecasting.
+- Building interactive dashboards using Power BI or Tableau.
+- Optimizing marketing budget allocation strategies.
 
-Project Structure
-Retail-Marketing-AB-Testing/
-│
-├── Retail Marketing AB_testing_project.ipynb
-├── marketing_AB.csv
-├── README.md
-└── images/
-Conclusion
-
+### Conclusion
 This project demonstrates how A/B testing can help retail businesses evaluate the effectiveness of marketing campaigns.
-
-The analysis proved that advertisements positively influence customer conversions and customer engagement. By identifying high-performing days, hours, and ad exposure levels, businesses can improve marketing strategies and optimize campaign performance.
+The analysis proved that advertisements positively influence customer conversions and customer engagement. 
+By identifying high-performing days, hours, and ad exposure levels, businesses can improve marketing strategies and optimize campaign performance.
 
 Overall, this project highlights the importance of data-driven decision-making in retail marketing.
-
-Author
-
-Apurwa Khare
-
-MCA (AIML)
-Data Science & Machine Learning Enthusiast
-Skilled in Python, SQL, Power BI, and Machine Learning
-
-Maine tumhare Retail Marketing A/B Testing project ke liye complete professional README file prepare kar di hai.
-
-Isme:
-
-Project Overview
-Problem Statement
-Dataset Information
-Analytical Approach
-Tools & Technologies
-Visualizations
-Hypothesis Testing
-Logistic Regression
 Key Insights
 Future Work
 Conclusion
