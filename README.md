@@ -78,9 +78,3 @@ The analysis proved that advertisements positively influence customer conversion
 By identifying high-performing days, hours, and ad exposure levels, businesses can improve marketing strategies and optimize campaign performance.
 
 Overall, this project highlights the importance of data-driven decision-making in retail marketing.
-Key Insights
-Future Work
-Conclusion
-Author section
-
-sab properly easy language me add kiya gaya hai.
