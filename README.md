@@ -68,9 +68,9 @@ This project can be improved further by:
 - It's using larger detailed datasets.
 - It will add customer demographic information.
 - It will apply advanced machine learning models.
-- Performing time-series forecasting.
-- Building interactive dashboards using Power BI or Tableau.
-- Optimizing marketing budget allocation strategies.
+- The project will include performing time-series forecasting for better trend prediction.
+- It will also focus on building interactive dashboards using Power BI or Tableau.
+- Future enhancements will involve optimizing marketing budget allocation strategies.
 
 ### Conclusion
 This project demonstrates how A/B testing can help retail businesses evaluate the effectiveness of marketing campaigns.
