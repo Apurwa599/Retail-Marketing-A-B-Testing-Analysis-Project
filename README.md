@@ -12,12 +12,11 @@ The project uses data analysis, visualization, hypothesis testing, and machine l
 ### Problem Statement
 Retail businesses invest heavily in marketing campaigns, but it is important to know whether advertisements actually increase customer conversions.
 The main objective of this project is to:
-- Compare conversion performance between Ad and PSA groups.
-  Analyze the impact of ad exposure on customer behavior.
-- Identify the best days and hours for customer conversions.
-- Predict customer conversion behavior using Logistic Regression.
-- Help businesses make better data-driven marketing decisions.
-- Dataset Information
+- It compares the conversion performance between Advertisement (Ad) and PSA groups.
+- It analyzes the impact of ad exposure on customer behavior.
+- It identifies the best days and hours for customer conversions.
+- It predicts customer conversion behavior using Logistic Regression.
+- It helps businesses make better data-driven marketing decisions.
 
 ### Dataset Features
 - user id	Unique ID of each customer
