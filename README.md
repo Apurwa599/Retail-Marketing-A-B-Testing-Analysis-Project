@@ -65,9 +65,9 @@ The model helps:
 
 ### Future Work
 This project can be improved further by:
-- Using larger and more detailed datasets.
-- Adding customer demographic information.
-- Applying advanced machine learning models.
+- It's using larger detailed datasets.
+- It will add customer demographic information.
+- It will apply advanced machine learning models.
 - Performing time-series forecasting.
 - Building interactive dashboards using Power BI or Tableau.
 - Optimizing marketing budget allocation strategies.
