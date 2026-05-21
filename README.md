@@ -50,7 +50,6 @@ The analysis showed that the p-value was less than 0.05, leading to the rejectio
 ### Regression Analysis
 A Logistic Regression model was used because the target variable (converted) contains binary values (True/False).
 The model helps:
-
 - Predict customer conversion behavior.
 - Understand the relationship between ad exposure and conversions.
 - Estimate conversion probability based on the number of ads viewed.
