@@ -41,7 +41,6 @@ These visualizations help identify trends, patterns, and relationships within th
 
 ### Hypothesis Testing
 Hypothesis testing was performed to determine whether there is a statistically significant difference between the Ad group and PSA group.
-
 - Null Hypothesis (H0): There is no significant difference between the Ad and PSA groups.
 - Alternative Hypothesis (H1): There is a significant difference between the Ad and PSA groups.
 
